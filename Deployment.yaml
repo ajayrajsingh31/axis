@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: mydjangoapp
-        image: ajayrajsingh31/django:latest
+        image: ajayrajsingh31/django
         ports:
         - containerPort: 8000
